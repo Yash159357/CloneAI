@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.clone_ai.app-mergeReleaseResources-9:/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\YASH\\Desktop\\FlutterProjects\\clone_ai\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "from": {
+                        "startLines": "3,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "175,831",
+                        "endLines": "7,18",
+                        "endColumns": "12,12",
+                        "endOffsets": "482,1110"
+                    },
+                    "to": {
+                        "startLines": "2,6",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,236",
+                        "endLines": "5,10",
+                        "endColumns": "12,12",
+                        "endOffsets": "231,488"
+                    }
+                }
+            ]
+        }
+    ]
+}
