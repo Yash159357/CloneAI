@@ -15,8 +15,8 @@ go_router: Used for efficient and declarative routing within the application, en
 flutter_bloc: Implemented state management to handle complex UI updates and application logic, making the code more organized and maintainable.
 animated_text_kit: Integrated engaging animations for text elements, enhancing the user experience with visually appealing transitions.
 introduction_screen: Created an interactive onboarding experience for new users, guiding them through the app's key features and functionalities.
-http: Facilitated making network requests to interact with external APIs, such as fetching AI model data, sending user input for processing, or retrieving results. \n
-flutter_launcher_icons: Generated custom launcher icons for the application, providing a unique and visually appealing brand identity on the device's home screen. \n
+http: Facilitated making network requests to interact with external APIs, such as fetching AI model data, sending user input for processing, or retrieving results. 
+flutter_launcher_icons: Generated custom launcher icons for the application, providing a unique and visually appealing brand identity on the device's home screen. 
  
 File structure :- 
 C:.  
